@@ -1,0 +1,5 @@
+
+
+interface Exercicio {
+    String descricao();
+}
